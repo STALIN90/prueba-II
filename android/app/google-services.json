@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "588780355546",
+    "firebase_url": "https://prueba-ii-moviles-iii-default-rtdb.firebaseio.com",
+    "project_id": "prueba-ii-moviles-iii",
+    "storage_bucket": "prueba-ii-moviles-iii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588780355546:android:4abdab94388d2436d24ae3",
+        "android_client_info": {
+          "package_name": "com.example.prueba_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3UCGR7krOrFVODSQ_aF6CDOPJUi9tnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588780355546:android:39cea825f96a0988d24ae3",
+        "android_client_info": {
+          "package_name": "com.prueba_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3UCGR7krOrFVODSQ_aF6CDOPJUi9tnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
